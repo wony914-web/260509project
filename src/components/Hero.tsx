@@ -23,7 +23,7 @@ export function Hero() {
           </h1>
 
           <p className="mx-auto max-w-xl text-lg text-slate-600 lg:mx-0">
-            손그림에서 출발한 캐릭터 <strong>두둥실</strong>의 첫 굿즈 시즌.
+            손그림에서 출발한 캐릭터 <strong>둥둥실</strong>의 첫 굿즈 시즌.
             스티커, 키링, 엽서, 미니 포스터까지 — 사전예약 신청자에게는 한정 시크릿 굿즈를 함께 보내드려요.
           </p>
 
@@ -65,7 +65,7 @@ export function Hero() {
             <div className="absolute inset-0 -rotate-2 rounded-[2.5rem] bg-white/80 backdrop-blur" />
             <div className="absolute inset-6 flex flex-col items-center justify-center gap-4 rounded-[2rem] border border-white bg-gradient-to-b from-white to-pink-50">
               <div className="text-[8rem] leading-none">🐰</div>
-              <p className="text-lg font-semibold text-slate-700">두둥실</p>
+              <p className="text-lg font-semibold text-slate-700">둥둥실</p>
               <p className="px-6 text-center text-sm text-slate-500">
                 * 캐릭터 일러스트가 들어갈 자리예요. <br />
                 실제 이미지는 <code className="rounded bg-slate-100 px-1">/public</code>에 넣고 교체해 주세요.

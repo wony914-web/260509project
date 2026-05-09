@@ -4,7 +4,7 @@ export function Footer() {
     <footer className="border-t border-slate-100 bg-slate-50">
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-6 px-6 py-10 sm:flex-row">
         <div className="text-center sm:text-left">
-          <p className="text-base font-semibold text-slate-900">두둥실 스튜디오</p>
+          <p className="text-base font-semibold text-slate-900">둥둥실 스튜디오</p>
           <p className="mt-1 text-sm text-slate-500">
             느린 하루를 응원하는 작은 캐릭터 굿즈
           </p>
@@ -26,7 +26,7 @@ export function Footer() {
           ))}
         </ul>
 
-        <p className="text-xs text-slate-400">© {year} Dudungsil Studio. All rights reserved.</p>
+        <p className="text-xs text-slate-400">© {year} Dungdungsil Studio. All rights reserved.</p>
       </div>
     </footer>
   );

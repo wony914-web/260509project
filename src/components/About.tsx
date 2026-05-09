@@ -9,7 +9,7 @@ export function About() {
             <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 text-center">
               <div className="text-7xl">🌱</div>
               <p className="text-sm text-slate-500">
-                작은 화분에서 시작된 <br /> 두둥실의 하루를 담았어요.
+                작은 화분에서 시작된 <br /> 둥둥실의 하루를 담았어요.
               </p>
             </div>
           </div>
@@ -17,14 +17,14 @@ export function About() {
 
         <div className="order-1 space-y-6 lg:order-2">
           <p className="text-sm font-semibold uppercase tracking-wider text-pink-500">
-            About Dudungsil
+            About Dungdungsil
           </p>
           <h2 className="text-3xl font-bold text-slate-900 sm:text-4xl">
             느린 하루를 응원하는 <br />
             작은 친구를 만들었어요.
           </h2>
           <p className="text-lg leading-relaxed text-slate-600">
-            두둥실은 화분 속에서 자란 콩 친구예요. 책상 한 구석에서 함께
+            둥둥실은 화분 속에서 자란 콩 친구예요. 책상 한 구석에서 함께
             아침 커피를 마시고, 저녁엔 노트 위로 폴짝 뛰어 오릅니다. 일상의 작은
             순간을 함께 보낼 수 있도록, 손에 쥐기 좋은 크기와 부드러운 색감으로
             모든 굿즈를 디자인했어요.

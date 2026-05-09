@@ -10,7 +10,7 @@ const ITEMS: GoodsItem[] = [
   {
     emoji: "✨",
     name: "스티커 팩",
-    description: "두둥실의 일상 표정 12종을 담은 다이컷 스티커 세트",
+    description: "둥둥실의 일상 표정 12종을 담은 다이컷 스티커 세트",
     badge: "베스트",
     bg: "from-pink-100 to-pink-50",
   },
